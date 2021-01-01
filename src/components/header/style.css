@@ -1,0 +1,12 @@
+.navigation-bar {
+}
+
+.navigation-bar ul {
+  display: flex;
+  padding: 60px 0;
+  justify-content: flex-end;
+}
+
+.navigation-bar ul li:first-child {
+  margin-right: 40px;
+}
